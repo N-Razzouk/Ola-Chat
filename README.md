@@ -1,4 +1,4 @@
-# ola_chat
+# Ola Chat - A simple chat app built with Flutter
 
 A new Flutter project.
 
