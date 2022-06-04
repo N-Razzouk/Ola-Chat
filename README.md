@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## This app was built using:
+
+StreamChat APIs - automatically manage the backend
+
+get_it / injectable (for DI and service location)
+
+BLoC (State management)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
